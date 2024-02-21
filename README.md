@@ -1,2 +1,2 @@
 # portfolio
-My portfolio
+My portfolio for BTE320 class.
