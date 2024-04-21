@@ -1,3 +1,4 @@
+#Goal of this program is to identify similar characters in each string
 s1 = 'abcdefghijklmnopqrstuvwxyz'
 s2 = 'qwertyuioplkjhgfdsazxcvbnm'
 
