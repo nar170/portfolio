@@ -27,6 +27,8 @@ def subnum():
 def dividenum():
   num1 = int(input("Great what is the numerator?"))
   num2 = int(input("What do you want to divide " + str(num1) + " by?"))
+  if num2 == 0:
+      num2 = int(input("You cannot divide by 0! Enter again: ")
   return num1/num2
 
 def multiplynum():
